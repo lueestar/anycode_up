@@ -1,4 +1,5 @@
 #include "main.h"
+#define MAX 8
 
 void main(void);
 
