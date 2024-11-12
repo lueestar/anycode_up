@@ -15,3 +15,8 @@ void main(void)
 
 
 }
+
+void system_init(void)
+{
+    sysclocking_init();
+}
